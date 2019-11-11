@@ -34,7 +34,6 @@ $RECYCLE.BIN/
 config
 force-app
 manifest
-src/main
 .forceignore
 sfdx-project.json
 .prettierignore
