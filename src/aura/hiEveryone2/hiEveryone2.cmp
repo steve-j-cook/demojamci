@@ -1,0 +1,5 @@
+<aura:component>
+    <aura:component implements="flexipage:availableForAllPageTypes" access="global">
+        <div>Hello World2</div>
+    </aura:component>
+</aura:component>	
